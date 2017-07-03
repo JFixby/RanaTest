@@ -1,0 +1,12 @@
+dependencies {
+
+         compile "com.github.RedTriplane.RanaRed:rana-manager-red:$ranaRedVersion"
+         compile "com.github.RedTriplane.RanaRed:rana-package-red:$ranaRedVersion"
+         compile "com.github.RedTriplane.RanaRed:rana-loader-red:$ranaRedVersion"
+         compile "com.github.RedTriplane.RanaRed:rana-asset-red:$ranaRedVersion"
+         
+         compile "com.github.Scarabei.ScarabeiGson:scarabei-gson:$scarabeiGsonVersion"
+         
+	     testCompile 'junit:junit:4.10'
+
+}	
